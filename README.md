@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hey <img src="Hi.gif" width="40px" />, </h1>
 
 <h1 align="center">Welcome to my profile:) I'm Kübra! </h1>
 <h3 align="center">Data Science MSc Student </h3>
@@ -34,8 +34,8 @@ Abot me:
   
 <hr />
 <div align="center">
-  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api?username=kubrakyuz-2420&show_icons=true&theme=radical&hide_border=true">
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api?username=kubrakyuz&show_icons=true&theme=radical&hide_border=true">
   <br/>
     <br />
-  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=kubrakyuz-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=kubrakyuz&layout=compact&show_icons=true&theme=radical&hide_border=true" />
 </div>
