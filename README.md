@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="Hi.gif" width="40px" />, </h1>
+<h1 align="center">Hey <img src="Hi.gif" width="40px" /> </h1>
 
 <h1 align="center">Welcome to my profile:) I'm Kübra! </h1>
 <h3 align="center">Data Science MSc Student </h3>
