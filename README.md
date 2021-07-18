@@ -1,6 +1,6 @@
-<h1 align="center">Hey <img src="Hi.gif" width="40px" /> </h1>
+## Hi there! 
 
-<h1 align="center">Welcome to my profile:) I'm Kübra! </h1>
+<h1 align="center">Welcome to my profile. I'm Kübra! </h1>
 <h3 align="center">Data Science MSc Student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubrakyuz" alt="kubrakyuz" /> </p>
