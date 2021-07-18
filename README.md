@@ -32,4 +32,10 @@ Abot me:
   <img src="https://img.shields.io/badge/Numpy-%2312100E.svg?&style=flat&logo=numpy&logoColor=white" />
 </div>
   
-
+<hr />
+<div align="center">
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api?username=kubrakyuz-2420&show_icons=true&theme=radical&hide_border=true">
+  <br/>
+    <br />
+  <img align="center" src="https://github-readme-stats-kappa-sandy.vercel.app/api/top-langs?username=kubrakyuz-2420&layout=compact&show_icons=true&theme=radical&hide_border=true" />
+</div>
